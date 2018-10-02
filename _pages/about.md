@@ -1,22 +1,18 @@
 ---
 permalink: /
-title: "Welcome to NeoResearch.io"
-excerpt: "Developing groundbreaking research for Neo Blockchain Ecosystem."
+title: "Welcome to amazoneo.org"
+excerpt: "Strengthening the NEO Smart Economy in Latin America and the Caribbean"
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 
-## NeoResearch community
+## amazoneo community
 
-NeoResearch is an open-source community focused in developing cutting-edge technologies for [NEO](https://neo.org/) blockchain.
-NEO ecosystem comprises several projects from many development groups worldwide, including secure Wallets for users interacting with the blockchain, compilers for NeoVM in different programming languages and efficient consensus algorithms for blockchain management.
-
-NeoResearch **is not a private company nor any form of legally constituted entity**, it's just a bunch of people crazy by blockchain technology and the Smart Economy revolution.
-
+The amazoneo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in the Latin America and the Caribbean. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories. 
 
 ## Directions for contributing
 
-Donations to the group are managed by [NeoResearch Council](https://github.com/NeoResearch/governance) members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
+Donations to the group are managed by [NeoResearch Council](https://github.com/amazoneo/governance) members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
 - Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integrations between different tools that increase overall user experience and simplify development on NEO);
 - Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
@@ -25,10 +21,17 @@ Donations to the group are managed by [NeoResearch Council](https://github.com/N
 
 ## Join us
 
-Community is welcome to join us as a [Public Member](https://github.com/orgs/NeoResearch/people) and participate in our [Discord Channel](https://discord.gg/gTEddmq).
+Community is welcome to join us as a [Public Member](https://github.com/orgs/amazoneo/people).
 
-Follow some insights at [Medium](https://medium.com/neoresearch).
+Follow some insights at [Medium](https://medium.com/amazoneo).
 
-## Português
+Become a contributor and an agent of transformation. Be part of our community. In this very beginning we are acting in a more centralized manner until establish in a participatory way the governance structure of the comittee. This is in order to assure that the principles supported will be widely spreaded among its members. If you would like to be part of it send us an email with your:
 
-Membros da América do Sul e América Latina estão especialmente convidados a fazer parte desta transformação tecnológica.
+- Name:
+- City:
+- Country (nations and territories of Latin America and the Caribbean): 
+- Background:
+- Briefly state how you intend to contribute and why you decided to join us. 
+
+We are convinced this is will be a very important step for the maturity of blockchain technology in Latin America and the Caribbean by fostering to solve societal challenges through the support of NEO.
+
