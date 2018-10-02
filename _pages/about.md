@@ -14,10 +14,15 @@ The amazoneo is a social-led blockchain community that emerged in order to devel
 
 Donations to the group are managed by [NeoResearch Council](https://github.com/amazoneo/governance) members and can be distributed to contributors according to the following topics of interest (which are also aligned with [NEO Project](https://github.com/neo-project) directions):
 
-- Development and contributions on platforms that provide **Integration** of NEO Ecosystem (integrations between different tools that increase overall user experience and simplify development on NEO);
-- Development and contributions on platforms that provide greater **Stability** of NEO Ecosystem (bugfixes and validated/tested proposals for improvement of the main consensus project are also welcome);
-- Conducted studies and assessment of state-of-the-art projects, including **Benchmarks** that could lead to platform improved **Efficiency** (projects that propose/test novel high performance tools/techniques also fit this topic);
-- Standardization, creation and organization of [Learning Materials](https://github.com/NeoResearch/learning-examples), that could help newcomers to easily develop on NEO (tutorials, written and audiovideo materials, examples and coding templates, specially in different languages...).
+Among our key short-term goals we aim at
+- reaching at least one member from every 33 nations and 15 territories of Latin America and the Carribean;
+- reaching 1000 members by the end of 2018;
+- determining the governance and policies by 31st of December, 2018;
+- establishing partnerships with accelators, incubators, living labs, industry and think tanks.
+- dividing into countries and subregions (continental, national, regional, state and territorial levels).
+- establishing comissions with specific context-dependent governance, but shared principles. 
+- consolidating a newsletter with the major advancements of blockchain technology in Latin America and the Caribbean with focus on the NEO ecosystem;
+- developing monthly reports about the expansion of the network both interms of partnered individuals and organizations. 
 
 ## Join us
 
