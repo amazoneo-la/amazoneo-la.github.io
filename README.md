@@ -1,1 +1,1 @@
-# NeoResearch simple portal based on Jekyll Themes
+# amazoneo simple portal based on Jekyll Themes
