@@ -24,7 +24,7 @@ Among our key short-term goals we aim at
 
 ## Join us
 
-Become a contributor and an agent of transformation. Be part of our community. In this very beginning we are acting in a more centralized manner until establish in a participatory way the governance structure of the comittee. This is in order to assure that the principles supported will be widely spreaded among its members. If you would like to be part of it send us an email with your:
+Become a contributor and an agent of transformation. Be part of our community. In this very beginning we are acting in a more centralized manner until establishing the governance structure of the comittee through a participatory approach. This is in order to assure that the principles supported will be widely spreaded among its members. If you would like to be part of it send us an email with your:
 
 - Name:
 - City:
