@@ -10,7 +10,7 @@ toc: true
 
 The amazoneo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in the Latin America and the Caribbean. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories. 
 
-## Directions for contributing
+## Goals 
 
 Among our key short-term goals we aim at
 - reaching at least one member from every 33 nations and 15 territories of Latin America and the Carribean;
