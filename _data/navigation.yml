@@ -22,6 +22,8 @@ foo:
 main:
   - title: "News"
     url: /year-archive/
+  - title: "About"
+    url: /about/
   - title: "Events"
     url: /events/  
   - title: "Governance"
