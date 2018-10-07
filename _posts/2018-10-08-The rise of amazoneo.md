@@ -1,5 +1,5 @@
 ---
-title:  "The rise of amazoneo, towards the smart economy in Latin America and the Caribbean"
+title:  "The rise of amazoneo: towards the smart economy in Latin America"
 
 categories:
   - ecosystem
