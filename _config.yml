@@ -136,8 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - Gemfile
-  - .jekyll-include-cache
+#  - .jekyll-include-cache
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -152,6 +151,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
