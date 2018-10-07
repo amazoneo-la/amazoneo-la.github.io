@@ -8,16 +8,16 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 # theme			 : "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "amazoneo"
-title_separator          : # "--"
+title_separator          :  "|"
 name                     : &name "amazoneo" # &name is a YAML anchor which can be *referenced later
-description              : &description "Be part of the sustainable digital transformation of Latin America and the Caribbean with the NEO Smart Economy."
-url                      : https://www.amazoneo.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+description              : &description "Be part of the sustainable digital transformation of Latin America with the NEO Smart Economy."
+url                      : https://amazoneo.la or amazoneo-la.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /amazoneo-la/ # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : # "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
