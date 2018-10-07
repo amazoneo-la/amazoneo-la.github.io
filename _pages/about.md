@@ -8,15 +8,15 @@ toc: true
 
 ## amazoneo community
 
-The amazoneo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in the Latin America. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories. 
+The amazoneo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in Latin America. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories.
 
 ## Goals 
 
 Among our key short-term goals we aim at
-- reaching at least one member from the 20 countries of Latin America;
-- reaching 1000 members by the end of 2018;
+- reaching at least one member from all the countries of Latin America;
+- reaching 500 members by the end of 2018;
 - determining the governance and policies by 31st of December, 2018;
-- establishing partnerships with accelators, incubators, living labs, industry and think tanks.
+- establishing partnerships with accelators, incubators, living labs, industry, research centers and think tanks.
 - dividing into countries and subregions (continental, national, regional, state and territorial levels).
 - establishing comissions with specific context-dependent governance, but shared principles. 
 - consolidating a newsletter in with the major advancements of blockchain technology in Latin America with focus on the NEO ecosystem in Portuguese, Spanish and French languages. 
@@ -32,7 +32,7 @@ Become a contributor and an agent of transformation. Be part of our community. I
 - Background:
 - Briefly state how you intend to contribute and why you decided to join us. 
 
-We are convinced this is will be a very important step for the maturity of blockchain technology in Latin America and the Caribbean by fostering to solve societal challenges through the support of NEO.
+We are convinced this is will be a very important step for the maturity of blockchain technology in Latin America and by fostering to solve societal challenges through the support of NEO.
 
 ## Follow us on
 
