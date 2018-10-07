@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-NeoResearch main public Reports.
+First report to be launched in November.
