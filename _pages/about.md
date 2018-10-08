@@ -14,7 +14,7 @@ The amazoneo is a social-led blockchain community that emerged in order to devel
 
 Among our key short-term goals we aim at
 - reaching at least one member from all the countries of Latin America;
-- reaching 500 members by the end of 2018;
+- reaching 25 members by the end of 2018;
 - determining the governance and policies by 31st of December, 2018;
 - establishing partnerships with accelators, incubators, living labs, industry, research centers and think tanks.
 - dividing into countries and subregions (continental, national, regional, state and territorial levels).
