@@ -1,12 +1,17 @@
-
+---
+title: "Governance"
+permalink: /governance/
+layout: posts
+author_profile: true
+---
 ## Governance
 
 There are twenty countries in Latin America at the moment. Our first target is to aggregate members from all those nations states.
 
-There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment. 
+There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment.
 
 #For the election of the the steering committee:
-#Maximum of 
+#Maximum of
 
 Voting system
 - At least one representative for each country
@@ -17,7 +22,7 @@ The first election will take place by the end of 2018 for the year 2019.
 
 #Potential modules (commissions)
 #Innovation, Entrepreneurship and Business development
-#Science, Technology & Engineering 
+#Science, Technology & Engineering
 #amazoneo works closely to NeoResearch as the major scientific community of NEO.
-#GovTech, Policy and Governance 
+#GovTech, Policy and Governance
 #Tokenomics and Complementary Cryptocurrencies Systems

@@ -1,21 +1,13 @@
 ---
 title:  "The rise of amazoneo: towards the smart economy in Latin America"
-
+last_modified_at: 2018-04-01T16:01:04-04:00
 categories:
   - ecosystem
 tags:
   - community
   - announcements
-  
 toc: true
 ---
-<p align="center">
-    <img
-      src=" amazoneo-la.github.io/assets/images/logo/pionner-logo/amazoneo-logo.jpg"
-      width="125px;">
-</p>
-
-<h1 align="center"></h1>
 
 ## Context
 
@@ -23,7 +15,7 @@ Blockchain technology reached a status in which it is fundamental to translate t
 
 The NEO network proposes a smart economy by default. This by combining digital assets enforced by digital identities and smart contracts. We believe these are key aspects that can guarantee the basis of an economy that enables impact-led entrepreneurship, social innovation, digital and financial inclusion, territorial development, hence smart territories.
 
-Additionally, permissionless blockchain technology has a strong potential of positively impacting the Global South if projects are participatory designed and well implemented. Its potential are huger in those areas where corruption in both private and public sectors reached a level that we must concentrate our efforts in a decentralized cryptography-based trust network. 
+Additionally, permissionless blockchain technology has a strong potential of positively impacting the Global South if projects are participatory designed and well implemented. Its potential are huger in those areas where corruption in both private and public sectors reached a level that we must concentrate our efforts in a decentralized cryptography-based trust network.
 
 However, in order to thrive we need to articulate and organize ourselves, promote the distributed mindset change, otherwise we will rely on pure criticism and/or frivolous utopianism. Furthermore, Latin American and the Caribbean region has been shown as a prominent ecosystem of blockchain-based initiative.
 
