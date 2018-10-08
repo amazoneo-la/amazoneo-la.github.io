@@ -103,8 +103,8 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/logo/pionner-logo/amazoneo-logo.png"
   bio              : "amazoneo is a social-led blockchain community to strengthen and consolidate the NEO Smart Economy in Latin America and the Caribbean."
-  location         : Latin America and the Caribbean
-  email            : contact@amazoneo.org
+  location         : "Latin America and the Caribbean"
+  email            : "contact@amazoneo.org"
   uri              : *url
   home             : *url
   bitbucket        :
@@ -136,7 +136,6 @@ author:
 include:
   - .htaccess
   - _pages
-#  - .jekyll-include-cache
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -199,7 +198,6 @@ collections:
   reports:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
