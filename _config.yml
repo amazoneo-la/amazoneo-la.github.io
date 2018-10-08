@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "amazoneo"
-title_separator          :  "|"
+title_separator          : "--"
 name                     : &name "amazoneo" # &name is a YAML anchor which can be *referenced later
 description              : &description "Be part of the sustainable digital transformation of Latin America with the NEO Smart Economy."
 url                      : https://amazoneo-la.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
