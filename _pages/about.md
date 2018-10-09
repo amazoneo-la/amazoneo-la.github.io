@@ -8,7 +8,9 @@ toc: true
 
 ## amazoneo community
 
-The amazoneo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in Latin America. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories.
+The AmazoNeo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in Latin America. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories.
+
+AmazoNeo is not a private company nor any form of legally constituted entity, we are a support network of the Smart Economy proposed by the NEO project in Latin America. Our purpose is to disseminate the use of blockchain technology for social impact in Latin America, this in both industry, public sector, academy and civil society.
 
 ## Goals 
 
@@ -24,7 +26,9 @@ Among our key short-term goals we aim at
 
 ## Join us
 
-Become a contributor and an agent of transformation. Be part of our community. In this very beginning we are acting in a more centralized manner until establishing the governance structure of the comittee through a participatory approach. This is in order to assure that the principles supported will be widely spreaded among its members. If you would like to be part of it send us an email with your:
+Become a contributor and an agent of transformation. Be part of our community! 
+
+In this very beginning we are acting in a more centralized manner until establishing the governance structure of the comittee through a participatory approach. This is in order to assure that the principles supported will be widely spreaded among its members. If you would like to be part of it send us an email with your:
 
 - Name:
 - City:
@@ -40,5 +44,5 @@ We are convinced this is will be a very important step for the maturity of block
 - [Twitter](https//twitter.com/amazoneo_la).
 - [GitHub](https://github.com/amazoneo-la).
 
-
+## We are also active in the [Discord Channel](https://discord.gg/gTEddmq).
 
