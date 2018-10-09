@@ -12,14 +12,18 @@ There will be a steering committee composed by a multisectoral agents of the net
 
 ## For the election of the the steering committee:
 
+The first election will take place by the end of 2018 for the year 2019. The governance will be ellaborated in a participatory way through assemblies to be scheduled as soon as a minimum of 8 members from different countries join the network. In this beginning the approval will work in a unanimity basis. It is relevant to mention that everyone is welcome to join the network, the elections are only to the steering comittee for those who really commit.
+
 Voting system
 - At least one representative for each country
 - The minimum of members will be weighted by the number of participants of a given jurisdiction proportionally.  
 
-The first election will take place by the end of 2018 for the year 2019.
 
 
 ## Potential modules (commissions)
+
+As long as the network spreads we also intend to create specific circles for collaboration of research and projects. Some suggested comissions are: 
+
 - Innovation, Entrepreneurship and Business development
 - Science, Technology & Engineering
 - amazoneo works closely to NeoResearch as the major scientific community of NEO.
