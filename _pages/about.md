@@ -6,11 +6,11 @@ last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 
-## amazoneo community
+## AmazoNeo community
 
 The AmazoNeo is a social-led blockchain community that emerged in order to develop and consolidate the NEO Smart Economy in Latin America. With representatives from diverse countries and regions in a interdisciplinary environment, amazoneo aims to enable a sustainable digital transformation of the territories.
 
-AmazoNeo is not a private company nor any form of legally constituted entity, we are a support network of the Smart Economy proposed by the NEO project in Latin America. Our purpose is to disseminate the use of blockchain technology for social impact in Latin America, this in both industry, public sector, academy and civil society.
+AmazoNeo is not a private company nor any form of legally constituted entity, we are a support network of the Smart Economy proposed by the [NEO Project](https://github.com/neo-project) in Latin America. Our purpose is to disseminate the use of blockchain technology for social impact in Latin America, this in both industry, public sector, academy and civil society.
 
 ## Goals 
 
@@ -32,11 +32,16 @@ In this very beginning we are acting in a more centralized manner until establis
 
 - Name:
 - City:
-- Country (nations and territories of Latin America and the Caribbean): 
+- Country: 
 - Background:
 - Briefly state how you intend to contribute and why you decided to join us. 
 
 We are convinced this is will be a very important step for the maturity of blockchain technology in Latin America and by fostering to solve societal challenges through the support of NEO.
+
+## Contributions
+
+If you believe in our purpose and project, feel free to contribute through our Public Address: 
+Our funds are administered by the [AmazoNeo Comittee](https://github.com/amazoneo-la/governance)
 
 ## Follow us on
 
