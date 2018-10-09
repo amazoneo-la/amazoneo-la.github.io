@@ -40,8 +40,8 @@ We are convinced this is will be a very important step for the maturity of block
 
 ## Contributions
 
-If you believe in our purpose and project, feel free to contribute through our Public Address: 
-Our funds are administered by the [AmazoNeo Comittee](https://github.com/amazoneo-la/governance)
+If you believe in our purpose and project, feel free to contribute through our Public Address: Ac45huJEjr4f6JC8bRtraxfLDoASWSvAYw
+Our funds are administered by the [AmazoNeo Comittee](https://github.com/amazoneo-la/governance).
 
 ## Follow us on
 
