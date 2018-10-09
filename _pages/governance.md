@@ -7,8 +7,7 @@ author_profile: true
 ## Governance
 
 There are twenty countries in Latin America at the moment. Our first target is to aggregate members from all those nation-states.
-
-There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment.
+There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment. Contact us if you believe in our project.
 
 ## For the election of the the steering committee:
 
