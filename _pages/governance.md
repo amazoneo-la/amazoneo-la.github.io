@@ -7,11 +7,11 @@ author_profile: true
 ## Governance
 
 There are twenty countries in Latin America at the moment. Our first target is to aggregate members from all those nation-states.
-There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment. Contact us if you believe in our project.
+There will be a steering committee composed by a multisectoral agents of the network. A reputation scheme will be established for participants according to their involvement and commitment. Contact us if you believe in our project. The governance will be ellaborated in a participatory way through assemblies to be scheduled as soon as a minimum of 8 members from different countries join the network.
 
 ## For the election of the the steering committee:
 
-The first election will take place by the end of 2018 for the year 2019. The governance will be ellaborated in a participatory way through assemblies to be scheduled as soon as a minimum of 8 members from different countries join the network. In this beginning the approval will work in a unanimity basis. It is relevant to mention that everyone is welcome to join the network, the elections are only to the steering comittee for those who really commit.
+The first election will take place by the end of 2018 for the year 2019. In this beginning the approval will work in a unanimity basis. It is relevant to mention that everyone is welcome to join the network, the elections are only to the steering comittee for those who really commit.
 
 Voting system
 - At least one representative for each country
