@@ -40,8 +40,11 @@ We are convinced this is will be a very important step for the maturity of block
 
 ## Contributions
 
-If you believe in our purpose and project, feel free to contribute through our Public Address: Ac45huJEjr4f6JC8bRtraxfLDoASWSvAYw
-Our funds are administered by the [AmazoNeo Comittee](https://github.com/amazoneo-la/governance).
+If you believe in our purpose and project, feel free to contribute through our Public Address:
+
+Ac45huJEjr4f6JC8bRtraxfLDoASWSvAYw
+
+The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed  according to the interests of the AmazoNeo Comittee. #(https://github.com/amazoneo-la/governance).
 
 ## Follow us on
 
@@ -49,5 +52,5 @@ Our funds are administered by the [AmazoNeo Comittee](https://github.com/amazone
 - [Twitter](https//twitter.com/amazoneo_la).
 - [GitHub](https://github.com/amazoneo-la).
 
-## We are also active in the [Discord Channel](https://discord.gg/gTEddmq).
+We are also active in the [Discord Channel](https://discord.gg/gTEddmq).
 
