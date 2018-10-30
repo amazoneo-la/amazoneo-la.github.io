@@ -11,7 +11,7 @@ There will be a steering committee composed by a multisectoral agents of the net
 
 ## For the election of the the steering committee:
 
-The first election will take place by the end of 2018 for the year 2019. In this beginning the approval will work in a unanimity basis. It is relevant to mention that everyone is welcome to join the network, the elections are only to the steering comittee for those who really commit.
+In this beginning the approval will work in a unanimity basis. It is relevant to mention that everyone is welcome to join the network, the elections are only to the steering comittee for those who really commit.
 
 Voting system
 - At least one representative for each country
@@ -26,4 +26,5 @@ As long as the network spreads we also intend to create specific circles for col
 - Innovation, Entrepreneurship and Business development
 - Science, Technology & Engineering
 - amazoneo works closely to NeoResearch as the major scientific community of NEO.
-- GovTech, Policy and Governance- Tokenomics and Complementary Cryptocurrencies Systems
+- GovTech, Policy and Governance
+- Tokenomics and Complementary Cryptocurrencies Systems
