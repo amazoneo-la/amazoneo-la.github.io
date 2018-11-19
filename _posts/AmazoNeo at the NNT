@@ -13,7 +13,12 @@ toc: true
 
 AmazoNeo founders Vitor Coelho and Alexandre Barbosa provided some informations about the intentions and development of AmazoNeo to the [NNT](https://neonewstoday.com/interviews/amazoneo-community-led-effort-to-grow-neo-in-latin-america-and-the-caribbean/) (NEONEWSTODAY)
 
-<img src="\images\NNT_amazoneo-community.png">
+![LSTM]({{ '/assets/images/NNT_amazoneo-community.png' | absolute_url }})
+
+"/assets/images//NNT_amazoneo-community.png"
 
 We would like to thank Dylan Grabowski and the NNT team for the support and consolidated partnership.
 
+![LSTM](/assets/images/NNT_amazoneo-community.png)
+
+![useful image]({{ site.url }}/assets/images/NNT_amazoneo-community.png)
