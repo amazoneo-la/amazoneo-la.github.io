@@ -8,13 +8,13 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 # theme			 : "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "amazoneo"
+title                    : "AmazoNeo"
 title_separator          : "--"
-name                     : &name "amazoneo" # &name is a YAML anchor which can be *referenced later
+name                     : &name "AmazoNeo" # &name is a YAML anchor which can be *referenced later
 description              : &description "Be part of the sustainable digital transformation of Latin America with the NEO Smart Economy."
 url                      : https://amazoneo-la.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #/amazoneo-la/ # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
@@ -102,9 +102,9 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/logo/pionner-logo/amazoneo-logo.png"
-  bio              : "amazoneo is a social-led blockchain community to strengthen and consolidate the NEO Smart Economy in Latin America and the Caribbean."
-  location         : "Latin America and the Caribbean"
-  email            : "contact@amazoneo.org"
+  bio              : "AmazoNeo is a social-led blockchain community to strengthen and consolidate the NEO Smart Economy in Latin America and the Caribbean."
+  location         : "Latin America"
+  email            : "contact@amazoneo.la"
   uri              : *url
   home             : *url
   bitbucket        :
@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        : # 
   lastfm           :
-  linkedin         :
+  linkedin         : "amazoneo"
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/123456/username
