@@ -28,7 +28,7 @@ AmazoNeo was also mentioned as one of the key nodes for the political and geogra
 
 Furthermore, AmazoNeo community had been mentioned twice in the [NGD](https://github.com/neo-ngd/) (Neo Global Development) monthly report of October. Our role of enforcing the ecosystem in Latin America has been very welcomed, even though in its very beginning.
 
-![LSTM](/assets/images/NGD_amazoneo.png)
+![LSTM](/assets/images/NGDReport_amazoneo.png)
 
 - Check it [here](https://neo.org/blog/details/4120).
 
