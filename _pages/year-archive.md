@@ -12,7 +12,7 @@ author_profile: true
 ![LSTM](/assets/images/NNT_amazoneo-community.png)
 
 AmazoNeo founders Vitor Coelho and Alexandre Barbosa provided some informations about the intentions and development of AmazoNeo to the [NNT](https://neonewstoday.com/interviews/amazoneo-community-led-effort-to-grow-neo-in-latin-america-and-the-caribbean/) (Neo News Today).
-We would like to than [Dylan Grabowski](www.twitter.com/grabowskidylan) and the [NNT](www.twitter.com/neonewstoday) team for the support and consolidated partnership.
+We would like to thank [Dylan Grabowski](www.twitter.com/grabowskidylan) and the [NNT](www.twitter.com/neonewstoday) team for the support and consolidated partnership.
 
 - Check it [here](https://neonewstoday.com/interviews/amazoneo-community-led-effort-to-grow-neo-in-latin-america-and-the-caribbean/).
 
