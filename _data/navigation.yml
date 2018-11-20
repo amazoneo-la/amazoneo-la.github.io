@@ -2,10 +2,10 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "CheckModule Guide"
-        url: /docs/checkmodule-guide/
+      - title: "How to contribute"
+        url: /docs/how-to-contribute/
+      - title: "Governance"
+        url: /docs/governance/
   - title: Scientific publications
     children:
       - title: "OptFrame Core"

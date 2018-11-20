@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: "Welcome to amazoneo.la"
 excerpt: "Strengthening the NEO Smart Economy in Latin America"
 last_modified_at: 2018-06-04T12:04:24-04:00
