@@ -6,6 +6,7 @@ layout: posts
 author_profile: true
 entries_layout: grid
 classes: wide
+toc: true
 ---
 
 ## AmazoNeo on the news
@@ -21,7 +22,7 @@ We would like to thank [Dylan Grabowski](www.twitter.com/grabowskidylan) and the
 ![LSTM](/assets/images/Reddit_amazoneo2.png).
 - Check it [here](https://www.reddit.com/r/NEO/comments/9szal4/amazoneo_community_led_effort_to_grow_neo_in/).
 
-AmazoNeo was also mentioned as one of the key nodes for the political and geographic decentralization:
+# AmazoNeo was also mentioned as one of the key nodes for the political and geographic decentralization:
 
 ![LSTM](/assets/images/Reddit_amazoneo.png)
 

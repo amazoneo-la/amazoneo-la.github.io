@@ -1,37 +1,34 @@
 # example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
+docs:
+  - title: Getting Started
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "CheckModule Guide"
+        url: /docs/checkmodule-guide/
+  - title: Scientific publications
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
+      - title: "OptFrame Core"
+        url: /docs/optframe-core-publications/
+      - title: "Applied"
+        url: /docs/optframe-applied-publications/
 
 # main links
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
   - title: "News"
     url: /news/
   - title: "Events"
     url: /events/  
-  - title: "Governance"
-    url: /governance/
-  - title: "Project"
-    url: /project/ 
-  - title: "Reports"
-    url: /reports/
+#  - title: "Governance"
+#    url: /governance/
+#  - title: "Project"
+#    url: /project/ 
+#  - title: "Reports"
+#    url: /reports/
   - title: "Sitemap"
     url: /sitemap/
 
