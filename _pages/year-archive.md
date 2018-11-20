@@ -1,12 +1,14 @@
 ---
 title: "On the news"
 last_modified_at: 2018-11-19T16:01:04-04:00
-permalink: /year-archive/
+permalink: /news/
 layout: posts
 author_profile: true
+entries_layout: grid
+classes: wide
 ---
 
-## AmazoNeo on the news 
+## AmazoNeo on the news
 
 
 ![LSTM](/assets/images/NNT_amazoneo-community.png)
