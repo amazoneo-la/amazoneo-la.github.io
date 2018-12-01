@@ -13,7 +13,7 @@ excerpt: '
 <font color="#8A2BE2">Latin American Smart Economy </font><br /><br /><br /><br /><br /><br />
 '
 
-## feature_row:
+feature_row:
  ## - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Super Customizable"
