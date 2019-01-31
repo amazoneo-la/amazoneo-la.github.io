@@ -40,7 +40,9 @@ We are convinced this is will be a very important step for the maturity of block
 
 If you believe in our purpose and project, feel free to contribute through our Public Address:
 
-                                 Ac45huJEjr4f6JC8bRtraxfLDoASWSvAYw
+                                 Ac45huJEjr4f6JC8bRtraxfLDoASWSvAYw (Deprecated)
+                                 AQN2MQTGMfp7c2TDyZQXTwdfWG4ENduRf3
+                                 
 
 The NEO Council provides support to the community, in the form of NEO rewards, which are redistributed  according to the interests of the AmazoNeo Comittee. #(https://github.com/amazoneo-la/governance).
 
